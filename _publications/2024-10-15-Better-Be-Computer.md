@@ -1,5 +1,5 @@
 ---
-title: ""Better Be Computer or I'm Dumb": A Large-Scale Evaluation of Humans as Audio Deepfake Detectors"
+title: "'Better Be Computer or I'm Dumb': A Large-Scale Evaluation of Humans as Audio Deepfake Detectors"
 collection: publications
 category: conferences
 permalink: /publication/2024-10-15-Better-Be-Computer
