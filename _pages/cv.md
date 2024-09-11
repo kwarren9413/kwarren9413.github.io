@@ -11,54 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer and Information Science Engineering, University of Florida, 2019-2025 (expected)
+* M.S. in Computer and Information Science Engineering, University of Florida, 2017-2019
+* B.S. in Mechanical Engineering, University of Florida, 2012-2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Universiry of Florida: Aug 2019-Current
+Doctoral Researcher at the FICS Lab
+• Researching linguistics and audio construction as it pertains to audio deepfakes detection
+• Implementing audio deepfake generation tools and creating a dataset of comparative audio samples
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Analysis Group: June 2024-Aug2024
+Summer Associate
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Bank of America: June 2022-Aug2022
+Security Research PhD Intern
+• Researched methodlogy for a user study on human susceptibility to deepfakes
+• Creates a web-based study to run internally at the bank
+
+Bank of America: June 2021-Aug2021
+Security Research PhD Intern
+• Researched methods of testing the efficacy of different deepfake detection methodologies
+• Generated potential methods of black-box targeted speaker authentication by-passes
+
+Bank of America: June 2020-Aug2020
+Security Research PhD Intern
+• Validated the effectiveness of potential third party speech recognition system for internal bank use.
+• Explored new generation possibility for creating Deepfake audio
+
+Universiry of Florida: Aug 2018-July 2019
+Graduate Research Assistant at the FICS Lab
+• Implemented, trained and tested a Voice Identification model
+• Scripted a Speech Recognition attack variant on a Voice Identification system
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
