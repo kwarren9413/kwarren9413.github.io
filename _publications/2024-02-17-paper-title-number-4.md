@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: ""Better Be Computer or I'm Dumb": A Large-Scale Evaluation of Humans as Audio Deepfake Detectors"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+permalink: /publication/2024-10-15-Better-Be-Computer
+excerpt: 'This paper is about understanding the capabilities of humans at detecting deepfakes and how that differs from machine learning detection'
+date: 2024-10-15
+venue: 'ACM CCS'
+paperurl: 'http://kwarren9413.github.io/files/fake_me_out_cr.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
